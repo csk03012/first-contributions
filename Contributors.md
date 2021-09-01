@@ -8578,6 +8578,7 @@
 - [Alex Niemiec](https://github.com/AlxNmc)
 - [Felix Fischer](https://github.com/Fislix)
 - [Vishal Yadav](https://github.com/Vishal1297)
+- [Chandra Shekhar Kasaudhan](https://github.com/csk03012)
 - [Ryan L.](https://github.com/ryanleong)
 - [Rayan F.](https://github.com/RF-90)
 - [Min C.](https://github.com/krnmin)
@@ -13916,3 +13917,4 @@
 - [Sumesh B.K.](https://github.com/sumo42)
 - [Damian Kuras](https://github.com/DamianKuras)
 - [bestcondition](https://github.com/bestcondition)
+- [Jarek Hry](https://github.com/akcer)
